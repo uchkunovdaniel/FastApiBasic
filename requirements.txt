@@ -1,3 +1,5 @@
 fastapi~=0.156.4
 pydantic~=2.14.1
 SQLAlchemy~=2.1.5
+fastapi[standart]
+uvicorn
